@@ -1,4 +1,4 @@
-# url loader for webpack
+# url relative loader for webpack
 
 ## Usage
 
